@@ -9,7 +9,7 @@ author: ["Edward Halim", "Yohanes Eko Riyanto", "Nilanjan Roy", "Yan Wang"]
 ---
 ##### Download:
 
-- [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602225#:~:text=When%20information%20is%20diffused%2C%20dark,between%20informed%20and%20uninformed%20traders.))
+- [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602225#:~:text=When%20information%20is%20diffused%2C%20dark,between%20informed%20and%20uninformed%20traders.)
 
 ---
 
