@@ -1,11 +1,11 @@
 ---
-title: "Clinical utility of polygenic scores for cardiometabolic disease in Arabs"
+title: "How Dark Trading Harms Financial Markets"
 collection: publications
 permalink: /publication/2023-10-18-Clinical-utility-of-polygenic-scores-for-cardiometabolic-disease-in-Arabs
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-10-18
-venue: 'Nature communications'
-paperurl: 'https://www.nature.com/articles/s41467-023-41985-1'
-citation: 'Shim, I., Kuwahara, H., Chen, N. et al. Clinical utility of polygenic scores for cardiometabolic disease in Arabs. Nat Commun 14, 6535 (2023). https://doi.org/10.1038/s41467-023-41985-1'
+date: 2024-09
+author:
+venue: 'R&R at the _Economic Journal_'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602225#:~:text=When%20information%20is%20diffused%2C%20dark,between%20informed%20and%20uninformed%20traders.'
 ---
-[Download paper here](https://www.nature.com/articles/s41467-023-41985-1.pdf?pdf=button%20sticky)
+[Download paper here]((https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602225#:~:text=When%20information%20is%20diffused%2C%20dark,between%20informed%20and%20uninformed%20traders.))
