@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NingNing Chen"
+title                    : "Yan Wang"
 title_separator          : "-"
-name                     : &name "NingNing Chen"
-description              : &description "doctoral student in computational biology"
-url                      : https://ningning-c.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yan Wang"
+description              : &description "research fellow in experimental finance"
+url                      : https://yanwangntu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "NingNing-C/NingNing-C.github.io"
+repository               : "yanwangntu/yanwangntu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,12 +83,12 @@ author:
   name             : "Yan Wang"
   avatar           : "profile.png"
   bio              : "Computational Biology"
-  location         : "Basel, Switzerland"
+  location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=eyciN4kAAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Ningning-Chen-6"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "NingNing-C"
+  github           : "yanwangntu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-4340-7268"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
