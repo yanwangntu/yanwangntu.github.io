@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-HI! I'm Yan Wang, a research fellow in the division of Economics at Nanyang Technological University, Singapore. I obtained a Ph.D. in economics from Nanyang Technological University in April 2024. My research interests focus on behavioral and experimental finance.
+HI! I'm Yan Wang, a research fellow in the Division of Economics at Nanyang Technological University, Singapore. I earned my Ph.D. in Economics from Nanyang Technological University in April 2024. My research interests lie in behavioral and experimental finance.
