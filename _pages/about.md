@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year doctoral student from [ETH Zurich](https://ethz.ch/de.html). My research interest includes AI for drug discovery, LLM in bioscience and applying machine learning in biology.  
+HI! I'm Yan Wang, a research fellow in the division of Economics at Nanyang Technological University, Singapore. I obtained a Ph.D. in economics from Nanyang Technological University in April 2024. My research interests focus on behavioral and experimental finance.
