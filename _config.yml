@@ -49,7 +49,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 [params]
-customCSS = ["css/custom.css"]
+customCSS = ["assets/css/custom.css"]
 # SEO Related
 google_site_verification :
 bing_site_verification   :
