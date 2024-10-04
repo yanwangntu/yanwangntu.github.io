@@ -13,3 +13,10 @@ Hi! I am a research fellow in the Division of Economics at Nanyang Technological
 I earned my Ph.D. in Economics from Nanyang Technological University in April 2024.
 
 My research interests lie in behavioral and experimental finance.
+
+**Curriculum Vitae**: [CV](/10.pdf)
+
+**Email**: [yan006@e.ntu.edu.sg](yan006@e.ntu.edu.sg)
+
+
+
