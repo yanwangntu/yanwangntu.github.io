@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yan Wang"
   avatar           : "WYheadshot.png"
-  bio              : "Experimental finance"
+  bio              : "Experimental asset markets"
   location         : "Singapore"
   employer         :
   pubmed           : 
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
