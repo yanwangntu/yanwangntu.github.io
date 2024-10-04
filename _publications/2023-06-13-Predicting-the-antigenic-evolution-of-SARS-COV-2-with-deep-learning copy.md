@@ -2,7 +2,7 @@
 title: "How Dark Trading Harms Financial Markets"
 subtitle: "R&R at the _Economic Journal_"
 #collection: publications
-permalink: /publication/2023-10-18-Clinical-utility-of-polygenic-scores-for-cardiometabolic-disease-in-Arabs
+permalink: /publication/How Dark Trading Harms Financial Markets
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 #date: 2024-09-30
 author: ["Edward Halim", "Yohanes Eko Riyanto", "Nilanjan Roy", "Yan Wang"]
