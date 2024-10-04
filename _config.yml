@@ -84,10 +84,10 @@ author:
   avatar           : "WYheadshot.png"
   bio              : "Experimental asset markets"
   location         : "Singapore"
-  employer         :
+  employer         : "Nanyang Technological University"
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=eyciN4kAAAAJ"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=eyciN4kAAAAJ"
+  email            : "yan006@e.ntu.edu.sg"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@Wendywang316"
   vine             :
   weibo            :
   xing             :
