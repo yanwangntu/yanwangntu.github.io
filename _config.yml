@@ -82,8 +82,6 @@ analytics:
 author:
   name             : "Yan Wang"
   avatar           : "WYheadshot.png"
-  avatarWidth      : 320
-  avatarHeight     : 320
   bio              : "Experimental asset markets"
   location         : "Singapore"
   employer         : "Nanyang Technological University"
