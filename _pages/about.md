@@ -15,7 +15,8 @@ I earned my Ph.D. in Economics from Nanyang Technological University in April 20
 My research interests lie in behavioral and experimental finance.
 
 **Email**: [yan006@e.ntu.edu.sg](yan006@e.ntu.edu.sg)
-------
+
+
 
 **Working papers**
 =======
