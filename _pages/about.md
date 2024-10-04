@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a research fellow in the Division of Economics at Nanyang Technological University, Singapore. 
+Hi! I am a research fellow in the Division of Economics at Nanyang Technological University. 
 
 I earned my Ph.D. in Economics from Nanyang Technological University in April 2024.
 
