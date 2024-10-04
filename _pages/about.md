@@ -18,5 +18,14 @@ My research interests lie in behavioral and experimental finance.
 
 **Email**: [yan006@e.ntu.edu.sg](yan006@e.ntu.edu.sg)
 
+**Working papers**
+========
 
+[How Dark Trading Harms Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602225#:~:text=When%20information%20is%20diffused%2C%20dark,between%20informed%20and%20uninformed%20traders.)
+
+
+[The Bright Side of Dark Markets: Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4025127)
+
+
+Trading on Hearsay: Influencers’ Investment Horizon, Transparency of Trading Institution, and Credible Information Sharing
 
