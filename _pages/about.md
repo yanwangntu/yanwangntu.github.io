@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Yan Wang 王妍"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
