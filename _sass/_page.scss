@@ -18,9 +18,9 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    @include span(8 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include suffix(4 of 12);
   }
 
   .page__inner-wrap {
@@ -324,8 +324,8 @@
 
 .comment__avatar-wrapper {
   float: left;
-  width: 60px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
 
   @include breakpoint($large) {
     width: 100px;
@@ -341,7 +341,7 @@
   @include breakpoint($large) {
     width: 80px;
     height: 80px;
-    padding: 5px;
+    padding: 0px;
     border: 1px solid $border-color;
   }
 }
