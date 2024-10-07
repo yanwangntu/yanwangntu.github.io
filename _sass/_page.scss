@@ -4,6 +4,9 @@
 
 #main {
   @include container;
+      .container {
+    @include span(8 of 12); /* This defines the width of the sidebar, you can change the fraction */
+}
   @include clearfix;
    .clearfix {
     @include span(4 of 12); /* This defines the width of the sidebar, you can change the fraction */
