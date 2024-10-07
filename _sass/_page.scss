@@ -1,7 +1,9 @@
 /* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
-
+body {
+    margin: 20px; /* Adds a 20px margin around the entire page */
+}
 #main {
   @include container;
       .container {
