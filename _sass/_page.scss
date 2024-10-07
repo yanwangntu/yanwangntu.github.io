@@ -353,7 +353,7 @@
 }
 
 .comment__content-wrapper {
-  float: left;
+  float: right;
   width: calc(100% - 100px);
 
   @include breakpoint($large) {
