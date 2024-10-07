@@ -1,9 +1,7 @@
 /* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
-body {
-    margin: 20px; /* Adds a 20px margin around the entire page */
-}
+
 #main {
   @include container;
       .container {
@@ -406,4 +404,7 @@ body {
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+body {
+    margin: 20px; /* Adds a 20px margin around the entire page */
 }
