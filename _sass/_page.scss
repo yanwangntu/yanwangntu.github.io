@@ -18,9 +18,9 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(8 of 12 last);
+    @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(4 of 12);
+    @include suffix(2 of 12);
   }
 
   .page__inner-wrap {
@@ -339,10 +339,10 @@
   border-radius: 0;
 
   @include breakpoint($large) {
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     padding: 0px;
-    border: 1px solid $border-color;
+    // border: 1px solid $border-color;
   }
 }
 
@@ -385,7 +385,7 @@
   float: left;
 
   @include breakpoint($large) {
-    @include pre(2.5 of 12);
+    @include pre(4 of 12);
   }
 
   a {
