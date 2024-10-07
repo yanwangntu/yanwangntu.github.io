@@ -23,9 +23,6 @@
     @include suffix(2 of 12);
   }
    
-.sidebar {
-    @include span(4 of 12); /* This defines the width of the sidebar, you can change the fraction */
-}
   .page__inner-wrap {
     @include full();
 
@@ -354,7 +351,7 @@
   width: calc(100% - 60px);
 
   @include breakpoint($large) {
-    width: calc(100% - 100px);
+    width: calc(100% - 200px);
   }
 }
 
