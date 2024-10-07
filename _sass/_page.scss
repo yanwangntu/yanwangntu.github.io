@@ -10,6 +10,7 @@
   @include clearfix;
    .clearfix {
     @include span(4 of 12);
+   }
   margin-top: 2em;
   padding-left: 0.75em;
   padding-right: 0.75em;
@@ -352,7 +353,7 @@
 }
 
 .comment__content-wrapper {
-  float: center;
+  float: left;
   width: calc(100% - 100px);
 
   @include breakpoint($large) {
