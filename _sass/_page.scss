@@ -5,8 +5,7 @@
 #main {
   @include container;
       .container {
-    @include span(9 of 12); 
-    float: right;
+    @include span(9 of 12);
 }
   @include clearfix;
    .clearfix {
@@ -392,6 +391,7 @@
   float: left;
 
   @include breakpoint($large) {
+     float: right;
     @include pre(4 of 12);
   }
 
