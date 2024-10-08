@@ -330,8 +330,8 @@
 
 .comment__avatar-wrapper {
   float: left;
-  width: 100px;
-  height: 100px;
+  width: 60px;
+  height: 60px;
 
   @include breakpoint($large) {
     width: 100px;
@@ -345,19 +345,19 @@
   border-radius: 0;
 
   @include breakpoint($large) {
-    width: 100px;
-    height: 100px;
-    padding: 0px;
-    // border: 1px solid $border-color;
+    width: 80px;
+    height: 80px;
+    padding: 5px;
+    border: 1px solid $border-color;
   }
 }
 
 .comment__content-wrapper {
   float: right;
-  width: calc(100% - 100px);
+  width: calc(100% - 60px);
 
   @include breakpoint($large) {
-    width: calc(100% - 200px);
+    width: calc(100% - 100px);
   }
 }
 
@@ -391,8 +391,7 @@
   float: left;
 
   @include breakpoint($large) {
-     float: right;
-    @include pre(4 of 12);
+    @include pre(2.5 of 12);
   }
 
   a {
