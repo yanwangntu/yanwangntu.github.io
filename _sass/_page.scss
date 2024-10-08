@@ -4,9 +4,6 @@
 
 #main {
   @include container;
-      .container {
-    @include span(9 of 12);
-}
   @include clearfix;
    .clearfix {
     @include span(3 of 12);
