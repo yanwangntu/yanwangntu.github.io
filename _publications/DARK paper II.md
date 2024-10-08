@@ -1,6 +1,6 @@
 ---
 title: "How Dark Trading Harms Financial Markets" 
-date: 2013-01-15
+//date: 2013-01-15
 lastmod: 2023-10-14
 tags: ["Market microstructure","dark markets","asymmetric information","the efficiency of security markets","experiments"]
 author: ["Edward Halim","Yohanes E. Riyanto","Nilanjan Roy","Yan Wang"]
