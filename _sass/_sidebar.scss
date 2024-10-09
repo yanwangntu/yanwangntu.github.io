@@ -9,7 +9,6 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
-  @include span(6 of 12);
   @include clearfix();
   margin-bottom: 1em;
 
@@ -70,11 +69,10 @@
    ========================================================================== */
 
 .author__avatar {
-  display: block;
+  display: table-cell;
   vertical-align: top;
   width: 100px;
-  // set width only, for non-square avatars
-  height: 100px;
+
 
   @include breakpoint($large) {
     display: block;
@@ -83,11 +81,11 @@
   }
 
   img {
-    max-width: 500px;
+    max-width: 350px;
     border-radius: 0;
 
     @include breakpoint($large) {
-      padding: 10px;
+      padding: 5px;
       border: 1px solid $border-color;
     }
   }
@@ -96,8 +94,8 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 15px;
+  padding-right: 25px;
   line-height: 1;
 
   @include breakpoint($large) {
@@ -122,7 +120,7 @@
 }
 
 .author__bio {
-  margin: 0;
+  margin: 10px;
 
   @include breakpoint($large) {
     margin-top: 10px;
