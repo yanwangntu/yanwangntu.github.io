@@ -10,6 +10,9 @@
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
   @include clearfix();
+   .clearfix{
+   @include span(6 of 12);
+   }
   margin-bottom: 1em;
 
   @include breakpoint($large) {
