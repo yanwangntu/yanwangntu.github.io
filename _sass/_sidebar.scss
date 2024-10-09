@@ -9,12 +9,12 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
-  @include clearfix();
 
+  @include clearfix();
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(3 of 12);
+    @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -72,9 +72,9 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  horizontal-align: left;
-  width: 72px;
-
+  width: 36px;
+  // set width only, for non-square avatars
+  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -84,7 +84,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 0;
+    border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -122,7 +122,7 @@
 }
 
 .author__bio {
-  margin: 10px;
+  margin: 0;
 
   @include breakpoint($large) {
     margin-top: 10px;
