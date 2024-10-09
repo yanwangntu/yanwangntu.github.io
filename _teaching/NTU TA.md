@@ -20,4 +20,3 @@ HE 2002 Macroeconomics II
 -----
 *AY2020-21 (Semester 2)*
 *Teaching evaluation: 4.82/5 (Best Teaching Award)*
-  
