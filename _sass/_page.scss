@@ -22,7 +22,7 @@
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
   }
-   
+
   .page__inner-wrap {
     @include full();
 
@@ -336,7 +336,7 @@
 .comment__avatar {
   width: 40px;
   height: 40px;
-  border-radius: 0;
+  border-radius: 50%;
 
   @include breakpoint($large) {
     width: 80px;
@@ -348,7 +348,6 @@
 
 .comment__content-wrapper {
   float: right;
-  position: relative;
   width: calc(100% - 60px);
 
   @include breakpoint($large) {
@@ -383,7 +382,7 @@
   padding-top: 1em;
   border-top: 1px solid $border-color;
   @include clearfix();
-  float: right;
+  float: left;
 
   @include breakpoint($large) {
     @include pre(2.5 of 12);
@@ -400,4 +399,3 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
-
