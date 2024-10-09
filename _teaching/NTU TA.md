@@ -1,6 +1,6 @@
 ## Teaching
 
-### Nanyang Technological University
+**Nanyang Technological University**
 
 - **HE 1001 Microeconomics I**, Teaching Assistant  
   *AY2020-21 (Semester 2)*
