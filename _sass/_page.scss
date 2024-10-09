@@ -9,8 +9,8 @@
     @include span(3 of 12);
    }
   margin-top: 2em;
-  padding-left: 0.75em;
-  padding-right: 0.75em;
+  padding-left: 1em;
+  padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -157,7 +157,7 @@
       font-size: $type-size-2;
 
       @include breakpoint($small) {
-        font-size: $type-size-2;
+        font-size: $type-size-1;
       }
     }
   }
@@ -327,8 +327,8 @@
 
 .comment__avatar-wrapper {
   float: left;
-  width: 50px;
-  height: 50px;
+  width: 60px;
+  height: 60px;
 
   @include breakpoint($large) {
     width: 100px;
@@ -337,8 +337,8 @@
 }
 
 .comment__avatar {
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   border-radius: 0;
 
   @include breakpoint($large) {
@@ -351,7 +351,7 @@
 
 .comment__content-wrapper {
   float: right;
-  width: calc(100% - 50px);
+  width: calc(100% - 60px);
 
   @include breakpoint($large) {
     width: calc(100% - 100px);
