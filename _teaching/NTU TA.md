@@ -1,5 +1,5 @@
 Teaching
-======
+---
 
 **Nanyang Technological University**
 
