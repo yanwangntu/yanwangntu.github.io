@@ -18,18 +18,18 @@ editPost:
 
 ---
 
-##### Download
+### Download
 
 + [Paper](paper1.pdf)
 ---
 
-##### Abstract
+### Abstract
 
 We design an experiment to analyze the consequences of dark trading in a financial market. The channel through which dark trading affects market efficiency depends critically on how information regarding fundamentals is distributed among investors. When information is concentrated in the hands of a few investors, possibly due to sparse investor connectedness or low media coverage, dark trading primarily impacts market efficiency by deteriorating the quality of asset prices. When information is diffused, dark trading no longer harms price discovery, but the unobserved liquidity entails welfare loss. Dark trading does not widen the earnings gap between informed and uninformed traders.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+### Figure 6: Some Uses For Olive Oil
 
 ![](paper1.png)
 
