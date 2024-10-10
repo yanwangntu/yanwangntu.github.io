@@ -18,12 +18,12 @@ editPost:
 
 ---
 
-##### Download
+### Download
 
 + [Paper](paper1.pdf)
 ---
 
-##### Abstract
+### Abstract
 
 We design an experiment featuring strategic information transmission from
 a privately informed investor capable of swaying followers’ investment decisions
@@ -37,14 +37,14 @@ while long-term influencers cannot affect the market price. The informational
 efficiency of asset prices is invariant to the influencer’s investment horizon.
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+### Figure 6: Some Uses For Olive Oil
 
 ![](paper1.png)
 
 ---
 
 
-##### Related material
+### Related material
 
 + [Presentation slides](presentation1.pdf)
 + [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
