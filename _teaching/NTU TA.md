@@ -1,5 +1,5 @@
 ---
-title: Nanyang Technological University, Singapore
+# Nanyang Technological University, Singapore
 ---
 
 
