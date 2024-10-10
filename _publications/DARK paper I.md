@@ -19,9 +19,6 @@ editPost:
 
 ---
 
-## Download
-+ [Paper](3-2. The Bright Side of Dark Markets_Experiments.pdf)
----
 
 ## Abstract
 
