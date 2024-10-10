@@ -20,7 +20,7 @@ editPost:
 
 ## Download
 
-+ [Paper](3-1. How Dark Trading Harms Financial Markets.pdf.pdf)
++ [Paper](3-1. How Dark Trading Harms Financial Markets.pdf)
 ---
 
 ## Abstract
