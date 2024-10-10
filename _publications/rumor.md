@@ -35,6 +35,7 @@ Consequently, short-term influencers generate price impact through their
 messages, which increases with the transparency of the trading institution,
 while long-term influencers cannot affect the market price. The informational
 efficiency of asset prices is invariant to the influencer’s investment horizon.
+
 ---
 
 ## Figure 6: Some Uses For Olive Oil
