@@ -33,12 +33,18 @@ efficiency of asset prices is invariant to the influencer’s investment horizon
 
 ---
 
-## Figure 6: Some Uses For Olive Oil
+## Figure 1: Lying Rate of Influencers
 
-![](paper1.png)
+![](4 treatments_no title.png)
 
 ---
 
+## Figure 2: Violin Plots of a Follower’s Net Buy Submission
+
+![](CA_2nd measure.png)
+![](CDA_2nd measure.png)
+
+---
 
 ## Related material
 
