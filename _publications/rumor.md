@@ -18,11 +18,6 @@ editPost:
 
 ---
 
-## Download
-
-+ [Paper](paper1.pdf)
----
-
 ## Abstract
 
 We design an experiment featuring strategic information transmission from
