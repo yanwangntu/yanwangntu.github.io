@@ -61,14 +61,14 @@ for pubsource in publist:
     #loop through the individual references in a given bibtex file
     for bib_id in bibdata.entries:
         #reset default date
-        pub_year = "1900"
-        pub_month = "01"
-        pub_day = "01"
+        #pub_year = "1900"
+        #pub_month = "01"
+        #pub_day = "01"
         
         b = bibdata.entries[bib_id].fields
         
         try:
-            pub_year = f'{b["year"]}'
+            #pub_year = f'{b["year"]}'
 
             #todo: this hack for month and day needs some cleanup
             if "month" in b.keys(): 
@@ -84,7 +84,7 @@ for pubsource in publist:
                 pub_day = str(b["day"])
 
                 
-            pub_date = pub_year+"-"+pub_month+"-"+pub_day
+            #pub_date = pub_year+"-"+pub_month+"-"+pub_day
             
             #strip out {} as needed (some bibtex entries that maintain formatting)
             clean_title = b["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")    
@@ -109,7 +109,7 @@ for pubsource in publist:
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
 
             citation = citation + " " + html_escape(venue)
-            citation = citation + ", " + pub_year + "."
+            #citation = citation + ", " + pub_year + "."
 
             
             ## YAML variables
