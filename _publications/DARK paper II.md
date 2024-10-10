@@ -18,11 +18,6 @@ editPost:
 
 ---
 
-## Download
-
-+ [Paper](3-1. How Dark Trading Harms Financial Markets.pdf)
----
-
 ## Abstract
 
 We design an experiment to analyze the consequences of dark trading in a financial market. The channel through which dark trading affects market efficiency depends critically on how information regarding fundamentals is distributed among investors. When information is concentrated in the hands of a few investors, possibly due to sparse investor connectedness or low media coverage, dark trading primarily impacts market efficiency by deteriorating the quality of asset prices. When information is diffused, dark trading no longer harms price discovery, but the unobserved liquidity entails welfare loss. Dark trading does not widen the earnings gap between informed and uninformed traders.
