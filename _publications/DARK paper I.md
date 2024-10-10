@@ -1,5 +1,6 @@
 ---
-title: "The Bright Side of Dark Markets: Experiments" 
+title: "The Bright Side of Dark Markets: Experiments"
+subtitle: "(with Edward Halim, Yohanes E. Riyanto and Nilanjan Roy)"
 //date: 2013-01-15
 lastmod: 2022-02-03
 tags: ["Market institutions"," dark pools","information aggregation","the efficiency of security markets","costly information acquisition","experiments"]
@@ -19,7 +20,6 @@ editPost:
 ---
 
 ### Download
-
 + [Paper](paper1.pdf)
 ---
 
