@@ -1,4 +1,4 @@
-**Teaching**
+Teaching
 ======
 
 **Nanyang Technological University**
