@@ -42,5 +42,4 @@ efficiency of asset prices is invariant to the influencer’s investment horizon
 
 ## Related material
 
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
++ [Trading interface in the lab](Chap 2 trading interface.png)
