@@ -35,6 +35,7 @@ We design an experiment to study the effects of dark trading on incentives to ac
 ## Figure 2: Precision of market prices in the lit market in Lit Only-High and Dark-High treatments
 
 ![](Figure 2-3 lpoly.png)
+
 ---
 
 
