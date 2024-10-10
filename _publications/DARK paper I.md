@@ -26,10 +26,15 @@ We design an experiment to study the effects of dark trading on incentives to ac
 
 ---
 
-## Figure 6: Some Uses For Olive Oil
+## Figure 1: Precision of market prices in the lit market in Lit Only-Low and Dark-Low treatments
 
-![](lit&dark zleaf.png)
+![](Figure 2-2 lpoly.png)
 
+---
+
+## Figure 2: Precision of market prices in the lit market in Lit Only-High and Dark-High treatments
+
+![](Figure 2-3 lpoly.png)
 ---
 
 
