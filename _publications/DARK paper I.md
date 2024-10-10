@@ -18,18 +18,18 @@ editPost:
 
 ---
 
-##### Download
+### Download
 
 + [Paper](paper1.pdf)
 ---
 
-##### Abstract
+### Abstract
 
 We design an experiment to study the effects of dark trading on incentives to acquire costly information, price efficiency, market liquidity, and investors' earnings in a financial market. When the information precision is high, adding a dark pool alongside a lit exchange encourages information acquisition, crowds out liquidity from the lit market, and results in a non-linear relationship between price efficiency and dark pool participation. At modest levels, dark pools enhance information aggregation. Investors with stronger signals use the lit exchange relatively more, and uninformed traders are better off when they trade more in the dark pool.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+### Figure 6: Some Uses For Olive Oil
 
 ![](paper1.png)
 
