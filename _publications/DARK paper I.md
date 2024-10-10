@@ -28,11 +28,11 @@ We design an experiment to study the effects of dark trading on incentives to ac
 
 ## Figure 6: Some Uses For Olive Oil
 
-![](ins fig 3.png)
+![](lit&dark zleaf.png)
 
 ---
 
 
 ## Related material
 
-+ [Trading interface in the lab](ins fig 3.png)
++ [Trading interface in the lab](lit&dark zleaf.png)
