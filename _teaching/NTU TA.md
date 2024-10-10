@@ -1,8 +1,7 @@
 ---
 title: Nanyang Technologicla University, Singapore (Click here)
 ---
----
-# Nanyang Technologicla University, Singapore
+
 ---
 
 ## HE 1001 Microeconomics I, Tutor  
