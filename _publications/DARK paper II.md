@@ -24,7 +24,7 @@ We design an experiment to analyze the consequences of dark trading in a financi
 
 ---
 
-## Figure 6: Some Uses For Olive Oil
+## Figure 1: Violin Plot of Price Efficiency
 
 ![](paper1.png)
 
