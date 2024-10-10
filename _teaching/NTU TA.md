@@ -1,5 +1,5 @@
 ---
-# Nanyang Technological University
+title: Nanyang Technological University, Singapore
 ---
 
 
@@ -19,4 +19,3 @@
   *AY2020-21 (Semester 2)*
   *Teaching evaluation: 4.82/5 (Best Teaching Award)*
   
----
