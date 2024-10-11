@@ -18,8 +18,6 @@ editPost:
 ---
 ---
 
-###
-
 Edward Halim, Yohanes E. Riyanto, Nilanjan Roy and Yan Wang
 
 ---
