@@ -4,7 +4,7 @@ title: Nanyang Technological University, Singapore
 
 ---
 
-## HE 1001 Microeconomics I, Tutor  
+## HE 9091 Principles of Economics, Tutor  
   *AY2020-21 (Semester 2)*
   *Teaching evaluation: 4.54/5*
   
