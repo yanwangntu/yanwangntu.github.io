@@ -16,6 +16,7 @@ editPost:
 
 ---
 Edward Halim, Yohanes E. Riyanto, Nilanjan Roy and Yan Wang
+(Revise and Resubmit at the _Economic Journal_)
 
 ---
 
