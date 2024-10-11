@@ -48,4 +48,4 @@ efficiency of asset prices is invariant to the influencer’s investment horizon
 
 ## Related material
 
-+ [Trading interface in the lab](Chap 2 trading interface.png)
++ [Trading interface in the lab](/Chap 2 trading interface.png)
