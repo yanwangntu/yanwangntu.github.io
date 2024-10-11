@@ -15,6 +15,7 @@ editPost:
     //Text: "Journal of Oleic Science"
 
 ---
+Edward Halim, Yohanes E. Riyanto, Nilanjan Roy and Yan Wang
 
 ---
 
