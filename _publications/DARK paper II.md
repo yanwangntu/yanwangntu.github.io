@@ -26,9 +26,14 @@ We design an experiment to analyze the consequences of dark trading in a financi
 
 ---
 
-## Figure 1: Violin Plots of Price Efficiency
+## Figure 1: Violin Plots of Price Efficiency_No Information
 
 ![](/ratio price deviation_median price_no information.png)
+
+---
+
+## Figure 1: Violin Plots of Price Efficiency_Information
+
 ![](/ratio price deviation_median price_information.png)
 
 ---
