@@ -35,14 +35,14 @@ efficiency of asset prices is invariant to the influencer’s investment horizon
 
 ## Figure 1: Lying Rate of Influencers
 
-![](4 treatments_no title.png)
+![](/4 treatments_no title.png)
 
 ---
 
 ## Figure 2: Violin Plots of a Follower’s Net Buy Submission
 
-![](CA_2nd measure.png)
-![](CDA_2nd measure.png)
+![](/CA_2nd measure.png)
+![](/CDA_2nd measure.png)
 
 ---
 
