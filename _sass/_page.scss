@@ -4,6 +4,7 @@
 
 #main {
   @include container;
+   @include span(9 of 12);
   @include clearfix;
   margin-top: 2em;
   padding-left: 1em;
