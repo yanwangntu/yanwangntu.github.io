@@ -10,8 +10,8 @@
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
   width: 250px;
-  position: fixed;  /* Keeps the sidebar fixed on the screen */
-  left: 100px; 
+  position: relative;  /* Keeps the sidebar fixed on the screen */
+  left: -20px; 
   @include clearfix();
   margin-bottom: 1em;
 
