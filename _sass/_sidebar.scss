@@ -11,8 +11,6 @@
           transform: translate3d(0, 0 , 0);
   width: 250px;
   float: left;
-  position: relative;  /* Keeps the sidebar fixed on the screen */
-  left: -20px; 
   @include clearfix();
   margin-bottom: 1em;
 
