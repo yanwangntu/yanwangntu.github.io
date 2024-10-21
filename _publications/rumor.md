@@ -42,8 +42,8 @@ efficiency of asset prices is invariant to the influencer’s investment horizon
 
 ## Figure 2: Violin Plots of a Follower’s Net Buy Submission
 
-![](/CA_2nd measure.png)
-![](/CDA_2nd measure.png)
+![CA](/CA_2nd measure no title.png)
+![CDA](/CDA_2nd measure no title.png)
 
 ---
 
