@@ -23,5 +23,5 @@ Hi! I am a research fellow in the Division of Economics at Nanyang Technological
 [**The Bright Side of Dark Markets: Experiments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4025127)
 <br>with Edward Halim, Yohanes E. Riyanto and Nilanjan Roy
 
-**Trading on Hearsay: Influencers’ Investment Horizon, Transparency of Trading Institution, and Credible Information Sharing**
+**Trading on Hearsay: When Does Cheap Talk Move Asset Prices?**
 <br>with Edward Halim, Yohanes E. Riyanto and Nilanjan Roy
