@@ -1,5 +1,5 @@
 ---
-title: "Trading on Hearsay: Influencers’ Investment Horizon, Transparency of Trading Institution, and Credible Information Sharing" 
+title: "Trading on Hearsay: When Does Cheap Talk Move Asset Prices?" 
 //date: 2013-01-15
 lastmod: 2024-09-16
 tags: ["Cheap talk"," investment horizon","credible information sharing","the efficiency of security markets","experiments"]
