@@ -23,5 +23,5 @@ Hi! I am a research fellow in the Division of Economics at Nanyang Technological
 [**The Bright Side of Dark Markets: Experiments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4025127)
 <br>with Edward Halim, Yohanes E. Riyanto and Nilanjan Roy
 
-**Trading on Hearsay: When Does Cheap Talk Move Asset Prices?**
+[**Trading on Hearsay: When Does Cheap Talk Move Asset Prices?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5015051)
 <br>with Edward Halim, Yohanes E. Riyanto and Nilanjan Roy
