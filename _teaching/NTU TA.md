@@ -18,5 +18,5 @@ title: Nanyang Technological University, Singapore
 
 ## HE 2002 Macroeconomics II, Tutor   
   *AY2020-21 (Semester 2)*
-  *Teaching evaluation: 4.82/5 (Best Teaching Award)*
+  *Teaching evaluation: 4.82/5 (Best Teaching Assistant Award)*
   
